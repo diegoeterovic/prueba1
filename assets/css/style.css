@@ -1,0 +1,16 @@
+.bg-purple{
+    background-color: #660066;
+}
+.bg-hero{
+    background-image: url(../img/bg_hero.png);
+    height: 737px;
+    background-size: cover;
+}
+
+.ancho{
+     max-width: 968px;
+}
+
+.letra-morada{
+    color:#660066;
+}
