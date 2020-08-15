@@ -1,10 +1,15 @@
+
+body{
+    font-family: "Noto Sans";
+}
 .bg-purple{
     background-color: #660066;
 }
-.bg-hero{
+header{
     background-image: url(../img/bg_hero.png);
-    height: 737px;
     background-size: cover;
+    height: 737px;
+    background-position: center;
 }
 
 .ancho{
@@ -13,4 +18,39 @@
 
 .letra-morada{
     color:#660066;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.texto-mediano{
+    font-size: 25px;
+}
+.texto-grande{
+    font-size: 52px;
+}
+.icono-1{
+    font-size: 150px;
+}
+.texto-24{
+    font-size: 24px;
+}
+footer{
+    height: 218px;
+}
+.icono-2{
+    color: white
+    ;
+}
+.texto-40{
+    font-size: 40px;
+}
+
+.padding-grande{
+    padding-top: 450px;
+    border-bottom: 1px white solid;
+}
+.containerchico{
+    width: 198px;
 }
